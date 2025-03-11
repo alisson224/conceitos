@@ -1,1 +1,2 @@
-# conceitos
+O que é o HTML ?
+HTML é uma linguagem de marcação utilizada na conatrução de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da jenção entre os padrões HyTime e SGML. HyTime é um padão para a representação estruturada de hipermidia e conteúdo baseado em tempo.
